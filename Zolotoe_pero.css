@@ -1,0 +1,248 @@
+html {
+    scroll-behavior: smooth;
+}
+header{
+    background-image: url(img/Newspapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: cursive;
+}
+h1{
+    position: relative;
+    top:5px;
+    background-color: #664F47;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    padding: 3vw;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 40px; 
+}
+h2{
+    background-color: #664F47;
+    text-align: center;
+    font-size: 100px;
+    padding: 100px;
+    margin-right: 750px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+}
+.Heading {
+    width: 375px;
+    height: 750px;
+    border: 1px solid;
+    background-color: #664F47;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
+.main1{
+    position: absolute;
+    background-color: #8F746B;
+    color: white;
+    font-family: cursive;
+    padding-bottom: 0.1px;
+    font-size: 1.08vw;
+}
+.button{
+    position: absolute;
+    left: -250px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.b1{
+    position: absolute;
+    bottom: 600px;
+    left: 875px;
+    background-color: #664F47;
+    font-size: 2.5vw;
+    padding: 0.5px 9.4vw;
+    color: white;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 3px;
+}
+.b2{
+    position: absolute;
+    bottom: 428px;
+    left: 875px;
+    background-color: #664F47;
+    font-size: 2.2vw;
+    padding: 0.55px 10.33vw;
+    color: white;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 3px;
+}
+
+
+.b3{
+    position: absolute;
+    bottom: 233px;
+    left: 875px;
+    background-color: #664F47;
+    font-size: 1.7vw;
+    padding: 0.8px 11.43vw;
+    color: white;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 3px;
+}
+.b4{
+    position: absolute;
+    bottom: 12px;
+    left: 875px;
+    background-color: #664F47;
+    font-size: 1.5vw;
+    padding: 0px 11.7vw;
+    color: white;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 3px;
+}
+.bfinal{
+    display: block;
+    z-index:99999999;     
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 50px; 
+    height: 50px;
+    background: #664F47;
+    border-color: white;
+    border-width: 5px;
+    border-radius: 50%;
+}
+.continer{
+    text-align: center;
+}
+
+.pero{
+    transform: scale(0.65);
+    height: 610px;
+}
+
+.pencil{
+    width: 50%;
+    border: 3px solid white;
+}
+.fest1{
+    width: 900px;
+    border: 3px solid white;
+}
+
+.abfest{
+    background-image: url(img/pencil22.jpg);
+}
+.p1{
+    background-color: #664F47;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 3px solid white;
+    white-space: pre-line;
+}
+.maingimn{
+    background-color: #8F746B;
+}
+.gimn{
+    margin-right: 150px;
+    margin-left: 150px;
+    border: 3px solid white;
+    white-space: pre-line;
+    background-color: #664F47;
+    text-align: center;
+    font-size: 1.3vw;
+}
+
+.mainnn{
+    font-size: 1.08vw;
+    background-image: url(img/nn.jpg);
+}
+.nn1{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+.nn2{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+.nn3{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+.nn4{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+.nn5{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+.nn6{
+    background-color: #664F47;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid white;
+    white-space: pre-line; 
+}
+
+.znach{
+    background-color: #664F47;
+    text-align: left;
+    font-size: 1.08vw;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 3px;
+    border: 3px solid white;
+    border-radius: 13px;
+    white-space: pre-line;
+}
+.fest{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: #664F47;
+    font-size: 1.08vw;
+    padding: 15px;
+    border: 3px solid white;
+}
